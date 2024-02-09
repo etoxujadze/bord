@@ -1,0 +1,20 @@
+.box {
+    width: 320px;
+    height: 138px;
+    border: 1px solid;
+    border-color: #B4B4B4;
+    margin-top: 73px;
+    margin-left: 109px;
+}
+.name {
+    width: 313px;
+    height: 22px;
+    margin: 0%;
+}
+.make {
+    width: 293px;
+    height: 84px;
+    margin: 0%;
+    color: #808080;
+
+}
